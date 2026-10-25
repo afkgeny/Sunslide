@@ -2,7 +2,7 @@
    - Cho app mở được khi không có mạng.
    - Tự cập nhật: mở app sẽ dùng bản đã lưu, đồng thời tải bản mới ngầm; lần mở sau dùng bản mới.
    - Khi sửa index.html: tăng số phiên bản CACHE bên dưới (vd sunslide-v2) rồi đưa lên lại. */
-const CACHE = 'sunslide-v1';
+const CACHE = 'sunslide-v2';
 const CORE = ['./', 'index.html', 'manifest.json', 'privacy.html',
   'icons/favicon-32.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png'];
 
